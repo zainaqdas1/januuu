@@ -20,7 +20,7 @@ $gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
 
-$site='❤ CHAUDHRYS BOTTER ❤ ZAIN AQDAS ❤ ONFIR3-AMEE.TK ❤  
+$site='❤ CHAUDHRYS BOTTER ❤ AMEE ❤ SALLU ❤ ZAINU ❤ ARMAN007.TK ❤  
  ';
 $true=$ops.'
  '.$site;
